@@ -234,6 +234,14 @@ a {
     transition: all var(--transition-base);
 }
 
+@media (max-width: 768px) {
+    .nav-toggle {
+        display: flex;         
+        margin-right: auto;    
+    }
+}
+
+
 .theme-toggle {
     background: none;
     border: 2px solid var(--border-color);
