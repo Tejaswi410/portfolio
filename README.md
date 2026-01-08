@@ -1,6 +1,8 @@
 # Portfolio 
 
 A personal portfolio website showcasing my journey as an AI & Data Science student, featuring my projects, skills, and professional experience.
+**[tejaswi](https://tejaswi.me)**
+
 
 ## 🚀 Overview
 
